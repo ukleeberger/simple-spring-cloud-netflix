@@ -1,0 +1,5 @@
+*.classpath
+service-client/.project
+service-client/.settings/org.eclipse.jdt.core.prefs
+service-client/.settings/org.eclipse.m2e.core.prefs
+service-client/.settings/org.eclipse.core.resources.prefs
